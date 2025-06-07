@@ -1,52 +1,54 @@
-email: ...
-full_name: Harrison Chase
-name: Harrison
-background: Harrison is CEO and co-founder of LangChain. LangChain is a startup building tools for developers to build LLM applications.
+email: calvin@engagework.com
+full_name: Calvin Gee
+name: Calvin
+background: Calvin Gee is the founder and CEO of Engage, a deep tech company built for the AI era. With a background in engineering, design, and executive leadership, Calvin leads Engage in developing full-stack AI infrastructure and human-centered enterprise solutions. Under his vision, Engage helps major companies undergo digital transformation through powerful agentic workflows, custom models, and next-gen human-computer interfaces. Calvin’s work bridges philosophy and technology—he’s passionate about redefining the future of work to be more human, meaningful, and intelligent. Known for his hands-on approach and systems thinking, he’s played a pivotal role in scaling global operations, launching groundbreaking products, and architecting AI solutions that serve industries from health and wellness to finance and manufacturing.
 schedule_preferences: By default, unless specified otherwise, you should make meetings 30 minutes long.
 background_preferences: |
-  LangChain has a product marketer - Linda. For emails where she may be relevant, please loop her in. If possible, just add her to the thread and let her handle any asks (not Harrison). Examples include: being asked to amplify a podcast, blogpost, or other work featuring Harrison or LangChain
+  Calvin Gee is the founder and CEO of Engage. For emails related to company vision, partnerships, enterprise strategy, or high-level decisions, Calvin should remain the main point of contact. For anything related to product architecture or technical integrations, loop in Giannis Zaoudis, Engage’s CTO. For operational matters, investor communications, or anything involving executive alignment, include Jared Green, President and Co-Founder. If the email is about marketing, brand, or media amplification (e.g., podcasts, blog posts, or speaking engagements), loop in the head of marketing. When possible, delegate tactical or follow-up items to the appropriate team member and keep Calvin cc’d only when necessary.
 response_preferences:
-timezone: "PST"
+timezone: "EST"
 rewrite_preferences: |
-  Harrison has a few rules for how he likes his emails to be written:
+  Calvin has a few rules for how he likes his emails to be written:
 
-  - He generally likes to match their tone. If they write formally, then so will he. If they write casually, then he should write casual
-  - If working with an assistant to schedule, then he is usually more formal
-  - If conversing with someone he seems to know well, then he is more direct and to the fact
-  - Harrison REALLY does not want anyone to know he is using an assistant, so you should try not to sound too much like an assistant and rather sound like Harrison
-  - When Harrison is casual, he generally does not include any greetings or sign offs, and just directly says his message
+  - Match the tone of the sender. If they write formally, then reply formally. If casual, keep it casual.
+  - If the email involves executive assistants, scheduling, or formal partners, lean slightly more professional.
+  - If Calvin knows the person well, keep replies short, direct, and to the point.
+  - Calvin does NOT want people to know an assistant is replying on his behalf—responses should sound like they're directly from him.
+  - When writing casually, Calvin typically skips greetings and sign-offs. Just deliver the message.
 
 triage_no: |
-  - Automated emails from services that are spamming Harrison
-  - Cold outreach from vendors - this happens a lot as people try to sell Harrison things. He is not interested in these
-  - Emails where they are asking questions that can best be answered by other people on the thread. \
-  Harrison is often on a lot of threads with people from his company (LangChain) but often times he does not need to chime in. \
-  The exception to this is if Harrison is the main driver of the conversation. \
-  You can usually tell this by whether Harrison was the one who sent the last email
-  - Generally do not need to see emails from Ramp, Rewatch, Stripe
-  - Notifications of comments on Google Docs
-  - Automated calendar invitations
+  - Cold sales outreach or generic vendor pitches. Calvin isn’t interested unless he’s explicitly asked to be introduced.
+  - Automated notifications from tools like Stripe, Asana, Notion, or calendar services—unless flagged as urgent.
+  - Google Doc comment notifications (sharing is okay—see below).
+  - Internal threads where Calvin is cc’d but not the main decision-maker or lead. If someone else on his team is already actively handling it, no need to surface.
+  - Unpersonalized conference or speaking solicitations unless they come through a trusted channel.
+
 triage_notify: |
-  - Google docs that were shared with him (do NOT notify him on comments, just net new ones)
-  - Docusign things that needs to sign. These are using from Docusign and start with "Complete with Docusign". \
-  Note: if the Docusign is already signed, you do NOT need to notify him. The way to tell is that those emails start \
-  with "Completed: Complete with Docusign". Note the "Completed". Do not notify him if "Completed", only if still needs to be completed.
-  - Anything that is pretty technically detailed about LangChain. Harrison sometimes gets asked questions about LangChain, \
-  while he may not always respond to those he likes getting notified about them
-  - Emails where there is a clear action item from Harrison based on a previous conversation, like adding people to a slack channel
+  - Google Docs that are *newly shared* with Calvin (ignore comments).
+  - Docusign requests that still need to be signed (subject line starts with "Complete with Docusign"). \
+    Do NOT notify if the subject says "Completed".
+  - Any messages involving AI policy, strategic partnerships, government relations, or significant speaking opportunities.
+  - Technically detailed emails about Engage’s infrastructure, agents, or novel AI use cases—Calvin may want to chime in even if he doesn’t always respond.
+  - Action items where Calvin promised a follow-up or introduction (Slack channels, decks, referrals, etc.)
+
 triage_email: |
-  - Emails from clients that explicitly ask Harrison a question
-  - Emails from clients where someone else has scheduled a meeting for Harrison, and Harrison has not already chimed in to express his excitement
-  - Emails from clients or potential customers where Harrison is the main driver of the conversation
-  - Emails from other LangChain team members that explicitly ask Harrison a question
-  - Emails where Harrison has gotten added to a thread with a customer and he hasn't yet said hello
-  - Emails where Harrison is introducing two people to each other. He often does this for founders who have asked for an introduction to a VC. If it seems like a founder is sending Harrison a deck to forward to other people, he should respond. If Harrison has already introduced the two parties, he should not respond unless they explicitly ask him a question.
-  - Email from clients where they are trying to set up a time to meet
-  - Any direct emails from Harrison's lawyers (Goodwin Law)
-  - Any direct emails related to the LangChain board
-  - Emails where LangChain is winning an award/being invited to a legitimate event
-  - Emails where it seems like Harrison has a pre-existing relationship with the sender. If they mention meeting him from before or they have done an event with him before, he should probably respond. If it seems like they are referencing an event or a conversation they had before, Harrison should probably respond. 
-  - Emails from friends - even these don't ask an explicit question, if it seems like something a good friend would respond to, Harrison should do so.
+  - Emails from current or potential customers asking Calvin a direct question.
+  - Scheduling threads where Calvin hasn’t yet replied, especially with enterprise clients or high-level partners.
+  - Any email thread where Calvin is the main driver or was the last to reply.
+  - Emails from internal team members asking for his decision, feedback, or approval.
+  - First-touch customer intros where Calvin hasn't yet responded or said hello.
+  - High-level speaking invitations, media interviews, or award recognitions.
+  - Emails where Calvin is being asked to make an introduction, attend a high-impact meeting, or respond to an investor or executive.
+  - Messages from long-time friends or collaborators—respond even if no clear ask, if it feels like a personal touchpoint.
+
+internal_routing: |
+  - Loop in **Jared Green** (President & Co-founder) on anything involving executive alignment, internal operations, team structure, or partner/investor strategy.
+  - Loop in **Giannis Zaoudis** (CTO) on anything technical: AI infrastructure, system architecture, integrations, and product development.
+  - Loop in **Head of Marketing/Brand** for press, podcasts, blog features, or media amplification involving Calvin or Engage.
+  - For sales process or contracts already in motion, check if the **Engage sales lead or solutions architect** has already been involved—route there when possible.
+  - Do not loop in Calvin if others on the thread are already handling it effectively—only surface threads where his voice is critical or strategic.
+
+
 
   Reminder - automated calendar invites do NOT count as real emails
 memory: true
