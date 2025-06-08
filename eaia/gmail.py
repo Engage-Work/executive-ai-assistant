@@ -16,7 +16,7 @@ from email.mime.text import MIMEText
 import email.utils
 
 from langchain_core.tools import tool
-from langchain_core.pydantic_v1 import BaseModel, Field
+from pydantic import BaseModel, Field
 
 from eaia.schemas import EmailData
 
@@ -25,7 +25,7 @@ _SCOPES = [
     "https://www.googleapis.com/auth/gmail.modify",
     "https://www.googleapis.com/auth/calendar",
 ]
-_ROOT = Path(__file__).parent.absolute()
+_ROOT = Path(__file__).parent.resolve()
 _PORT = 54191
 _SECRETS_DIR = _ROOT / ".secrets"
 _SECRETS_PATH = str(_SECRETS_DIR / "secrets.json")

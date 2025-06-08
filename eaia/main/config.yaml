@@ -1,6 +1,7 @@
 email: calvin@engagework.com
 full_name: Calvin Gee
 name: Calvin
+model: gpt-4o
 background: Calvin Gee is the founder and CEO of Engage, a deep tech company built for the AI era. With a background in engineering, design, and executive leadership, Calvin leads Engage in developing full-stack AI infrastructure and human-centered enterprise solutions. Under his vision, Engage helps major companies undergo digital transformation through powerful agentic workflows, custom models, and next-gen human-computer interfaces. Calvin’s work bridges philosophy and technology—he’s passionate about redefining the future of work to be more human, meaningful, and intelligent. Known for his hands-on approach and systems thinking, he’s played a pivotal role in scaling global operations, launching groundbreaking products, and architecting AI solutions that serve industries from health and wellness to finance and manufacturing.
 schedule_preferences: By default, unless specified otherwise, you should make meetings 30 minutes long.
 background_preferences: |

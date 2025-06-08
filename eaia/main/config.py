@@ -1,7 +1,7 @@
 import yaml
 from pathlib import Path
 
-_ROOT = Path(__file__).absolute().parent
+_ROOT = Path(__file__).resolve().parent
 
 
 def get_config(config: dict):
